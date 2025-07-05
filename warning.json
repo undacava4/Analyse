@@ -1,0 +1,35 @@
+{
+  "cheat.exe": {
+    "warning": "cheat.exe",
+    "text": "Warnung: Verdächtige Datei Cheat.exe entdeckt"
+  },
+  "free.exe": {
+    "warning": "free.exe",
+    "text": "Warnung: Mögliche Free.exe Datei erkannt"
+  },
+  "cleaner.exe": {
+    "warning": "cleaner.exe",
+    "text": "Warnung: Cleaner.exe gefunden"
+  },
+  "cmd.exe": {
+    "warning": "cmd.exe",
+    "text": "Hinweis: Kommandozeile cmd.exe aktiv"
+  },
+  "supercleaner.exe": {
+    "warning": "supercleaner.exe",
+    "text": "Warnung: Supercleaner.exe gefunden"
+  },
+  "scanner.exe": {
+    "warning": "scanner.exe",
+    "text": "Warnung: Scanner.exe erkannt"
+  },
+  "scann.exe": {
+    "warning": "scann.exe",
+    "text": "Warnung: Scann.exe entdeckt"
+  },
+  "bypass.exe": {
+    "warning": "bypass.exe",
+    "text": "Warnung: Bypass entdeckt"
+  }
+}
+
